@@ -1,5 +1,5 @@
 # TOS
-# If your looking to learn option paper trade first
+# If your looking to learn option paper trade first!
 IV Rank study
 
 I made some small edits to a IV Rank script I found so it fit my trading needs. 
