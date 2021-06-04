@@ -1,10 +1,11 @@
 # TOS
+# If your looking to learn option paper trade first
 IV Rank study
 
 I made some small edits to a IV Rank script I found so it fit my trading needs. 
 I track high IV rank as 60% = when we should be selling options 
 59% to 30% moderate buying and selling ie iron condors
-below 30% diagonals, calendars ect. 
+below 30% diagonals, calendars ect. This is created this for option sellers since that is the way I trade.  
 
 DISCLAIMER: stocks and options trading involves substantial risk of loss and is not suitable for every investor. The valuation of futures, stocks and options may fluctuate, and, as a result, clients may lose more than their original investment. The impact of seasonal and geopolitical events is already factored into market prices. The highly leveraged nature of futures trading means that small market movements will have a great impact on your trading account and this can work against you, leading to large losses or can work for you, leading to large gains.
 
